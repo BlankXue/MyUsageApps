@@ -27,9 +27,7 @@
 | Figma.app                  | [官网链接](https://www.figma.com/)                  | 在线设计工具     |
 | DeepL.app                  | [官网链接](https://www.deepl.com/)                   | 翻译工具       |
 | 网速管家.app                  | [官网链接](https://www.speedtest.net/apps/)          | 网络测速工具     |
-| Notes.app                  | [官网链接](https://www.apple.com/mac/notes/)        | 笔记
-
-工具       |
+| Notes.app                  | [官网链接](https://www.apple.com/mac/notes/)        | 笔记工具       |
 | Image Capture.app          | [官网链接](https://support.apple.com/image-capture)  | 图像捕获工具     |
 | Home.app                   | [官网链接](https://www.apple.com/ios/home/)              | 智能家居控制工具   |
 | Google Chrome.app          | [官网链接](https://www.google.com/chrome/)           | 网页浏览器      |
@@ -53,9 +51,7 @@
 | pap.er.app                 | [官网链接](https://pap.er/)                          | 壁纸应用       |
 | Dashboard.app              | [官网链接](https://www.apple.com/macos/dashboard/) | 仪表盘工具      |
 | OneDrive.app               | [官网链接](https://onedrive.live.com/)              | 云存储和同步工具   |
-| Ax
-
-ure RP 9.app             | [官网链接](https://www.axure.com/)                    | 交互式原型设计工具  |
+| Axure RP 9.app             | [官网链接](https://www.axure.com/)                    | 交互式原型设计工具  |
 | News.app                   | [官网链接](https://www.apple.com/news/)             | 新闻阅读工具     |
 | 腾讯文档.app                  | [官网链接](https://docs.qq.com/)                      | 在线文档协作工具   |
 | Free Download Manager.app  | [官网链接](https://www.freedownloadmanager.org/)     | 下载管理器      |
@@ -78,9 +74,7 @@ ure RP 9.app             | [官网链接](https://www.axure.com/)               
 | Stocks.app                 | [官网链接](https://www.apple.com/ios/stocks/)         | 股票市场工具     |
 | Obsidian.app               | [官网链接](https://obsidian.md/)                    | 笔记和知识管理工具  |
 | Mail.app                   | [官网链接](https://www.apple.com/macos/mail/)        | 邮件客户端      |
-| TencentMeeting.app         | [官网链接](https://meeting.tencent.com/)             |
-
- 在线会议工具     |
+| TencentMeeting.app         | [官网链接](https://meeting.tencent.com/)             | 在线会议工具     |
 | Safari.app                 | [官网链接](https://www.apple.com/safari/)           | 网页浏览器      |
 | Dictionary.app             | [官网链接](https://www.apple.com/macos/dictionary/) | 字典工具       |
 | Contacts.app               | [官网链接](https://www.apple.com/macos/contacts/)   | 联系人管理工具    |
@@ -103,9 +97,7 @@ ure RP 9.app             | [官网链接](https://www.axure.com/)               
 | Keynote.app                | [官网链接](https://www.apple.com/keynote/)          | 演示文稿工具     |
 | iSlide.app                 | [官网链接](https://www.islide.cc/)                    | 幻灯片设计工具    |
 | Wireshark.app              | [官网链接](https://www.wireshark.org/)               | 网络协议分析工具   |
-| MarginNote 3.app           | [官网链接](https://www.marginnote.com/)              | 学习和阅
-
-读工具    |
+| MarginNote 3.app           | [官网链接](https://www.marginnote.com/)              | 学习和阅读工具    |
 | Snipaste.app               | [官网链接](https://www.snipaste.com/)                | 屏幕截图工具     |
 | Sublime Text.app           | [官网链接](https://www.sublimetext.com/)             | 代码编辑器      |
 | Pages.app                  | [官网链接](https://www.apple.com/pages/)            | 文档处理工具     |
@@ -129,9 +121,7 @@ ure RP 9.app             | [官网链接](https://www.axure.com/)               
 | QQ.app                     | [官网链接](https://im.qq.com/macqq/)                 | 即时通讯工具     |
 | PhpStorm.app               | [官网链接](https://www.jetbrains.com/phpstorm/)      | PHP 集成开发环境   |
 | GarageBand.app             | [官网链接](https://www.apple.com/mac/garageband/)   | 音乐制作工具     |
-| Trello.app                 | [官网链接](https://trello.com
-
-/)                     | 项目管理工具     |
+| Trello.app                 | [官网链接](https://trello.com/)                     | 项目管理工具     |
 | Disk Inventory X.app       | [官网链接](http://www.derlien.com/)                  | 磁盘空间分析工具   |
 | Adobe Photoshop.app        | [官网链接](https://www.adobe.com/products/photoshop.html) | 图片编辑工具     |
 | Bear.app                   | [官网链接](https://bear.app/)                       | 笔记和写作工具    |
